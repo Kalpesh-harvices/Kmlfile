@@ -5,7 +5,7 @@
     <description>Attached to the ground. Intelligently places itself 
        at the height of the underlying terrain.</description>
     <Point>
-      <coordinates>144.6855,37.8629,0</coordinates>
+      <coordinates>144.6855,37.8629</coordinates>
     </Point>
   </Placemark>
 </kml>
