@@ -1,6 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>KmlFile</name>
-  </Document>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Folder>
+    <name>Temporary Places</name>
+    <Document>
+      <name>Untitled map</name>
+      <StyleMap id="poly-FF0000-1-01">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#poly-FF0000-1-0-normal1</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#poly-FF0000-1-0-highlight1</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="poly-FF0000-1-0-highlight1">
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>2</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>000000ff</color>
+        </PolyStyle>
+      </Style>
+      <Style id="s_ylw-pushpin_hl">
+        <IconStyle>
+          <scale>1.3</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+          <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Style id="poly-FF0000-1-0-normal1">
+        <LineStyle>
+          <color>ff0000ff</color>
+        </LineStyle>
+        <PolyStyle>
+          <color>000000ff</color>
+        </PolyStyle>
+      </Style>
+      <Style id="s_ylw-pushpin">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+          <hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <StyleMap id="m_ylw-pushpin">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#s_ylw-pushpin</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#s_ylw-pushpin_hl</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Folder>
+        <name>Hirasar_2</name>
+        <Placemark>
+          <description><![CDATA[description: description: description: <br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 300.30000<br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 300.30000<br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 300.30000]]></description>
+          <styleUrl>#poly-FF0000-1-01</styleUrl>
+          <ExtendedData>
+            <Data name="description">
+              <value>description: description: 
+District: Rajkot
+Taluka: Rajkot
+Village: Hirasar
+Taluka_Id: 09006
+Village_Id: 090060065610000
+Sno: 47
+Dist_Id: 09
+Type: Forest
+Ar: 300.30000
+District: Rajkot
+Taluka: Rajkot
+Village: Hirasar
+Taluka_Id: 09006
+Village_Id: 090060065610000
+Sno: 47
+Dist_Id: 09
+Type: Forest
+Ar: 300.30000</value>
+            </Data>
+            <Data name="District">
+              <value>Rajkot</value>
+            </Data>
+            <Data name="Taluka">
+              <value>Rajkot</value>
+            </Data>
+            <Data name="Village">
+              <value>Hirasar</value>
+            </Data>
+            <Data name="Taluka_Id">
+              <value>09006</value>
+            </Data>
+            <Data name="Village_Id">
+              <value>090060065610000</value>
+            </Data>
+            <Data name="Sno">
+              <value>47</value>
+            </Data>
+            <Data name="Dist_Id">
+              <value>09</value>
+            </Data>
+            <Data name="Type">
+              <value>Forest</value>
+            </Data>
+            <Data name="Ar">
+              <value>300.30000</value>
+            </Data>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.01746,22.38382,0 71.01898199999999,22.381046,0 71.020246,22.378391,0 71.021207,22.378659,0 71.022854,22.377896,0 71.024306,22.377997,0 71.02562500000001,22.377395,0 71.026167,22.377002,0 71.026966,22.377244,0 71.027053,22.378456,0 71.027873,22.377719,0 71.027905,22.378314,0 71.02814600000001,22.378394,0 71.02881499999999,22.378085,0 71.029623,22.377953,0 71.029927,22.378108,0 71.030598,22.378554,0 71.03093800000001,22.378905,0 71.03165799999999,22.379274,0 71.032369,22.379641,0 71.032715,22.379989,0 71.032965,22.380303,0 71.03343,22.380301,0 71.034093,22.381152,0 71.03433699999999,22.381731,0 71.03441599999999,22.381892,0 71.03477,22.381949,0 71.03513599999999,22.382398,0 71.035329,22.382672,0 71.03592999999999,22.383003,0 71.037617,22.38394,0 71.038044,22.38419,0 71.038451,22.384489,0 71.03871100000001,22.384602,0 71.039692,22.385077,0 71.04056,22.38539,0 71.041241,22.385573,0 71.042064,22.385785,0 71.041386,22.387391,0 71.04062140000001,22.3881681,0 71.0406545,22.3876682,0 71.04056610000001,22.3872513,0 71.039489,22.386678,0 71.0389541,22.3864965,0 71.0386986,22.3868804,0 71.0384143,22.3875973,0 71.0381495,22.3883068,0 71.03946999999999,22.3890615,0 71.0389023,22.3893161,0 71.03828,22.389486,0 71.038279,22.389134,0 71.037808,22.388955,0 71.037693,22.388881,0 71.037278,22.388609,0 71.036556,22.388551,0 71.036293,22.38924,0 71.03627299999999,22.389319,0 71.036149,22.389569,0 71.03618899999999,22.389672,0 71.036379,22.389845,0 71.037402,22.389694,0 71.0367332,22.3905393,0 71.035867,22.391414,0 71.035495,22.392253,0 71.035071,22.393073,0 71.034668,22.394036,0 71.034487,22.394302,0 71.033489,22.394914,0 71.032994,22.395161,0 71.032488,22.395358,0 71.032455,22.395248,0 71.03214800000001,22.394986,0 71.031948,22.394911,0 71.03132700000001,22.394704,0 71.030787,22.394335,0 71.0305,22.394229,0 71.03024000000001,22.394091,0 71.029511,22.394276,0 71.029456,22.394767,0 71.028228,22.396112,0 71.027815,22.396894,0 71.026701,22.397151,0 71.026527,22.397178,0 71.026314,22.39679,0 71.025949,22.396236,0 71.025367,22.396352,0 71.02506099999999,22.39591,0 71.024815,22.395294,0 71.024444,22.394447,0 71.02416,22.39357,0 71.023785,22.390633,0 71.023482,22.390268,0 71.023202,22.38992,0 71.023082,22.389928,0 71.022856,22.389975,0 71.022538,22.389837,0 71.01746,22.38382,0 
+							</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+            <innerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.025453,22.384467,0 71.025498,22.38433,0 71.02562,22.384351,0 71.02567500000001,22.384564,0 71.025693,22.38464,0 71.025837,22.384703,0 71.02580399999999,22.384833,0 71.02571399999999,22.385012,0 71.025802,22.385252,0 71.02535399999999,22.385345,0 71.025359,22.38499,0 71.025352,22.384828,0 71.025453,22.384467,0 
+							</coordinates>
+              </LinearRing>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.026008,22.384583,0 71.026113,22.384263,0 71.026605,22.384271,0 71.026759,22.384409,0 71.026875,22.384289,0 71.027078,22.384414,0 71.026932,22.384668,0 71.026917,22.384902,0 71.02665,22.384908,0 71.026646,22.385094,0 71.02633899999999,22.385186,0 71.026264,22.385225,0 71.026239,22.385013,0 71.026059,22.384872,0 71.02618099999999,22.384714,0 71.026008,22.384583,0 
+							</coordinates>
+              </LinearRing>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.02601900000001,22.383038,0 71.026055,22.382584,0 71.025824,22.382377,0 71.025499,22.382096,0 71.0251,22.382058,0 71.024794,22.382241,0 71.024616,22.382135,0 71.024716,22.381896,0 71.02458799999999,22.381745,0 71.02474700000001,22.381507,0 71.02479099999999,22.381452,0 71.025358,22.381614,0 71.02606299999999,22.381767,0 71.026571,22.381783,0 71.026523,22.382966,0 71.026315,22.382984,0 71.02601900000001,22.383038,0 
+							</coordinates>
+              </LinearRing>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.02485,22.388492,0 71.024283,22.388856,0 71.024252,22.389067,0 71.024102,22.389644,0 71.023793,22.389673,0 71.02379000000001,22.389437,0 71.023809,22.389174,0 71.024002,22.388512,0 71.02406499999999,22.388163,0 71.024108,22.388066,0 71.024053,22.387946,0 71.024072,22.387906,0 71.024348,22.387873,0 71.024434,22.387902,0 71.024661,22.388182,0 71.02493699999999,22.38832,0 71.02485,22.388492,0 
+							</coordinates>
+              </LinearRing>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.025211,22.383837,0 71.025325,22.383965,0 71.025443,22.38411,0 71.025387,22.384233,0 71.025257,22.384663,0 71.02524099999999,22.38477,0 71.025193,22.385046,0 71.025026,22.385061,0 71.02492599999999,22.384903,0 71.024694,22.384816,0 71.024621,22.384513,0 71.024551,22.384375,0 71.024433,22.384076,0 71.02445299999999,22.383849,0 71.02456100000001,22.383591,0 71.02468,22.383378,0 71.02493200000001,22.383406,0 71.024872,22.383616,0 71.025211,22.383837,0 
+							</coordinates>
+              </LinearRing>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+								71.026889,22.38255,0 71.027269,22.382532,0 71.027554,22.382822,0 71.02762800000001,22.38296,0 71.02776,22.383167,0 71.027912,22.383461,0 71.02801,22.383548,0 71.028148,22.383636,0 71.02827600000001,22.383769,0 71.028103,22.383856,0 71.02803900000001,22.383883,0 71.027827,22.383708,0 71.02780199999999,22.383906,0 71.027585,22.3839,0 71.02748200000001,22.383552,0 71.02721699999999,22.383367,0 71.02699699999999,22.383243,0 71.027016,22.382977,0 71.026819,22.382861,0 71.026889,22.38255,0 
+							</coordinates>
+              </LinearRing>
+            </innerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Untitled Path</name>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					71.02123305379459,22.3946552370084,0 71.02126279590432,22.39417703855267,0 71.01992049836979,22.39431477426321,0 71.01916390180708,22.39405891606901,0 71.0177219722349,22.3956521677117,0 71.01778544805342,22.39730626369887,0 71.01875347870724,22.39754402000549,0 71.0189793339769,22.3980361760073,0 71.01901884697989,22.39848731894473,0 71.01898230335816,22.39913451498345,0 71.02061811407579,22.3999572288323,0 71.02234572463273,22.40033507608748,0 71.02281371873934,22.39741579962657,0 71.0210377749931,22.39676605462736,0 71.02119408574467,22.39580788599362,0 71.02036142497303,22.39561299534383,0 71.02037994971971,22.39499043156262,0 71.02073687925153,22.3948595029899,0 71.02085927663771,22.39482310454496,0 71.02099522863796,22.39480700056626,0 71.02111804991638,22.39477013604448,0 71.02124414530206,22.39473149900056,0 71.02127231188523,22.3947167405675,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+    <Document>
+      <name>Untitled map</name>
+      <Style id="poly-FF0000-1-0-highlight">
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>2</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>000000ff</color>
+        </PolyStyle>
+      </Style>
+      <StyleMap id="poly-FF0000-1-0">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#poly-FF0000-1-0-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#poly-FF0000-1-0-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="poly-FF0000-1-0-normal">
+        <LineStyle>
+          <color>ff0000ff</color>
+        </LineStyle>
+        <PolyStyle>
+          <color>000000ff</color>
+        </PolyStyle>
+      </Style>
+      <Folder>
+        <name>Hirasar_1</name>
+        <Placemark>
+          <description><![CDATA[description: description: description: <br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 240.30000<br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 240.30000<br>District: Rajkot<br>Taluka: Rajkot<br>Village: Hirasar<br>Taluka_Id: 09006<br>Village_Id: 090060065610000<br>Sno: 47<br>Dist_Id: 09<br>Type: Forest<br>Ar: 240.30000]]></description>
+          <styleUrl>#poly-FF0000-1-0</styleUrl>
+          <ExtendedData>
+            <Data name="description">
+              <value>description: description: 
+District: Rajkot
+Taluka: Rajkot
+Village: Hirasar
+Taluka_Id: 09006
+Village_Id: 090060065610000
+Sno: 47
+Dist_Id: 09
+Type: Forest
+Ar: 240.30000
+District: Rajkot
+Taluka: Rajkot
+Village: Hirasar
+Taluka_Id: 09006
+Village_Id: 090060065610000
+Sno: 47
+Dist_Id: 09
+Type: Forest
+Ar: 240.30000</value>
+            </Data>
+            <Data name="District">
+              <value>Rajkot</value>
+            </Data>
+            <Data name="Taluka">
+              <value>Rajkot</value>
+            </Data>
+            <Data name="Village">
+              <value>Hirasar</value>
+            </Data>
+            <Data name="Taluka_Id">
+              <value>09006</value>
+            </Data>
+            <Data name="Village_Id">
+              <value>090060065610000</value>
+            </Data>
+            <Data name="Sno">
+              <value>47</value>
+            </Data>
+            <Data name="Dist_Id">
+              <value>09</value>
+            </Data>
+            <Data name="Type">
+              <value>Forest</value>
+            </Data>
+            <Data name="Ar">
+              <value>240.30000</value>
+            </Data>
+          </ExtendedData>
+          <id5>Sucess</id5>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+									71.00426899999999,22.391926,0 71.004087,22.391655,0 71.004087,22.391604,0 71.00426899999999,22.391926,0 
+								</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+									71.004037,22.392253,0 71.004047,22.392428,0 71.00367799999999,22.392397,0 71.00323,22.392522,0 71.00299200000001,22.392723,0 71.002803,22.392407,0 71.00311600000001,22.392219,0 71.00394900000001,22.392184,0 71.004037,22.392253,0 
+								</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+									71.002055,22.39309,0 71.00388599999999,22.392708,0 71.006197,22.392284,0 71.008123,22.391885,0 71.011426,22.395508,0 71.01136099999999,22.399546,0 71.012075,22.401054,0 71.01333,22.402349,0 71.013538,22.403042,0 71.014348,22.404093,0 71.015247,22.405055,0 71.01545400000001,22.406383,0 71.014951,22.406381,0 71.01437900000001,22.406378,0 71.012826,22.406125,0 71.010746,22.405744,0 71.005978,22.4019,0 71.004865,22.400989,0 71.00431,22.39971,0 71.002055,22.39309,0 
+								</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Document>
+  </Folder>
 </kml>
